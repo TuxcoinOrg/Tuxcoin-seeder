@@ -1,7 +1,7 @@
-garlicoin-seeder
+tuxcoin-seeder
 ===============
 
-Garlicoin-seeder is a crawler for the Garlicoin network, which exposes a list
+tuxcoin-seeder is a crawler for the Tuxcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
